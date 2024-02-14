@@ -2,10 +2,10 @@
 
 Demo of Git &amp; Github class.
 
-# Teacher
+## Teacher
 
 Anurag Gupta
 
-# Student
+## Student
 
 me
